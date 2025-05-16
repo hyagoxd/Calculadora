@@ -60,14 +60,7 @@ html
     <!-- ... outras teclas ... -->
   </div>
 </div>
-🛠️ Arquitetura do Projeto
-/  
-├── index.html          # Estrutura principal  
-├── style.css           # Estilos completos (Mobile First)  
-├── script.js           # Lógica da calculadora (400+ linhas)  
-└── assets/             # Opcional: ícones/fontes  
-    ├── 7segment.ttf    # Fonte do display  
-    └── click.mp3       # Som de tecla (se implementado)  
+ 
 🎯 Desafios Resolvidos
 Precisão Decimal
 
