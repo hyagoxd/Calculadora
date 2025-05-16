@@ -17,7 +17,9 @@ Ponto decimal
 Teclado físico compatível
 
 Destaques de Código
+
 Lógica Principal (JS)
+
 javascript
 function calcular() {
   try {
@@ -29,6 +31,7 @@ function calcular() {
     display.value = 'Erro';
   }
 }
+
 Estilização Dinâmica (CSS)
 css
 .btn-operator {
@@ -48,6 +51,7 @@ css
   overflow: hidden;
   text-overflow: ellipsis;
 }
+
 Estrutura HTML Semântica
 html
 <div class="calculadora">
