@@ -88,15 +88,7 @@ css
     height: 70vh;
   }
 }
-🚀 Como Executar
-Online: GitHub Pages (adicione link)
 
-Localmente:
-
-bash
-git clone https://github.com/seuusuario/calculadora-js.git
-cd calculadora-js
-# Abra index.html no navegador
 
 🤝 Contribuição
 Encontrou um bug? Quer sugerir uma feature?
